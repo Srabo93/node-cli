@@ -1,3 +1,19 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": [
+        "finish",
+        "project"
+      ],
+      "id": 1705778115035,
+      "content": "is this working"
+    },
+    {
+      "tags": [
+        "webdev"
+      ],
+      "id": 1705778846766,
+      "content": "testing app"
+    }
+  ]
 }
